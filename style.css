@@ -1,14 +1,19 @@
 body {
     background-color: #800000;
     font-family: 'Courier New', Courier, monospace;
+    height: 100%;
 }
 
 .text {
     color: #DAD4B5;
+    text-align: justify;
 }
 
 div {
     position: absolute;
     top: 10%;
     left: 10%;
+    right: 10%;
+    bottom: 10%;
+    display: block;
 }
