@@ -1,0 +1,14 @@
+body {
+    background-color: #800000;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.text {
+    color: #DAD4B5;
+}
+
+div {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+}
