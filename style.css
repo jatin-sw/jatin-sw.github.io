@@ -18,10 +18,15 @@ h1, h2, h3, h4 {
     display: block;
 }
 
+h1 {
+    text-align: center;
+}
+
 img {
     height: 40%;
     float: right;
-    margin: 1.5%;
+    margin-left: 1.5%;
+    margin-bottom: 1.5%;
 }
 
 a {
