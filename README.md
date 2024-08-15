@@ -1,2 +1,2 @@
 # my_site
-Creating my personal site using HTML, CSS and might use Javascript
+Creating my personal web page using only HTML and CSS.

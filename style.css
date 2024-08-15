@@ -1,0 +1,29 @@
+body {
+    background-color: #800000;
+    font-family: 'Courier New', Courier, monospace;
+    height: 100%;
+}
+
+div {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    right: 10%;
+    bottom: 10%;
+}
+
+h1, h2, h3, h4 {
+    color: #DAD4B5;
+    text-align: justify;
+    display: block;
+}
+
+img {
+    height: 40%;
+    float: right;
+    margin: 1.5%;
+}
+
+a {
+    color: inherit;
+}
