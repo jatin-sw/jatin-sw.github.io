@@ -4,11 +4,6 @@ body {
     height: 100%;
 }
 
-.text {
-    color: #DAD4B5;
-    text-align: justify;
-}
-
 div {
     position: absolute;
     top: 10%;
@@ -16,4 +11,13 @@ div {
     right: 10%;
     bottom: 10%;
     display: block;
+}
+
+h1, h2, h3, h4 {
+    color: #DAD4B5;
+    text-align: justify;
+}
+
+a {
+    color: inherit;
 }
